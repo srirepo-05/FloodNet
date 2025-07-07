@@ -1,6 +1,6 @@
-#  FloodNet: Real-Time Flood Prediction System
+#  FloodCast: Real-Time Flood Prediction System
 
-FloodNet is an IoT-enabled, machine learning-powered flood prediction and visualization platform. It integrates a microcontroller-based sensor system with a backend ML model and a real-time web dashboard to detect and forecast potential flooding events using environmental parameters like water level, temperature, and rainfall.
+FloodCast is an IoT-enabled, machine learning-powered flood prediction and visualization platform. It integrates a microcontroller-based sensor system with a backend ML model and a real-time web dashboard to detect and forecast potential flooding events using environmental parameters like water level, temperature, and rainfall.
 
 ---
 
